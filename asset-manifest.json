@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-eshop/static/js/main.18c352fc.js",
+    "static/js/787.3bed6155.chunk.js": "/react-eshop/static/js/787.3bed6155.chunk.js",
+    "index.html": "/react-eshop/index.html",
+    "main.18c352fc.js.map": "/react-eshop/static/js/main.18c352fc.js.map",
+    "787.3bed6155.chunk.js.map": "/react-eshop/static/js/787.3bed6155.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.18c352fc.js"
+  ]
+}
